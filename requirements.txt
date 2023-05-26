@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+mysql-connector-python
+python-dotenv
+matplotlib
+networkx
